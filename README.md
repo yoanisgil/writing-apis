@@ -1,4 +1,4 @@
-# On writing API and shipping them to production
+# On writing API and shipping it to production
 
 - Choose a Language and a Framework (specially one that doesn't get in your way)
 - Understand as much as you can how your API is going to be used and it's scope.
