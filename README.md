@@ -10,7 +10,7 @@
 - Monitoring
 - Logging
 
-# How would you teach someone to write an API? (someone that's never written an API ever never before)
+# How would you teach someone to write an API? (to someone that's never written an API ever never before)
 
 Write the easiest/dumbest possible thing:
 
