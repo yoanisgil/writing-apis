@@ -1,6 +1,23 @@
 # Course Proposal
 
-The course is meant to be very practical and focus on tranmisting some of the best practices and development patterns while   writing API / Backend applications. The idea is to provide a minimal theoretical background and then guide people in the process of writing a very minimal but functional API application. 
+The course is meant to be a very practical one and focus on tranmisting some of the best practices and development patterns while   writing API / Backend applications. The idea is to provide a basic theoretical background and then guide people in the process of writing a very minimal but functional API application. 
+
+Since the course it's intended to be very pratical and G.S.D-centered we should have at least 2 experienced developers on the subject, so that they can assist others and help with questions that might arise throughout the development process.
+
+Also before starting the course, we need to understand the developers that will be attending to it. In this sense we've created a survey so that we can capture as much information as possible from the target audience:
+
+- How would you rate your knowledge of the Python Language (User selects a number from 1 to 10)
+- How would you rate your experience in writing Backend/API applications (User selects a number from 1 to 10)
+- How would you rate your knowledge of Docker (User selects a number from 1 to 10)
+- How would you rate your knowledgen on writing API/Backend applications (Use selects a number from 1 to 10)
+- What would be your preferred approach to teaching the course (User selects among the following options:
+
+    1 - Hit me with a lot of theory, 
+    
+    2 - I just want to G.S.D 
+    
+    3- A good balance between Theory and G.S.D)
+
 
 ## Part One - Intro
 - Frameworks for writing APIs/Backend applications (in Python)
